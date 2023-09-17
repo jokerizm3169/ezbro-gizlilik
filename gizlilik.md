@@ -13,4 +13,4 @@ Botu tekrarlı olarak spam içeriği oluşturmak veya istenmeyen içerik yaymak 
 ## Eleştiri ve Geri Bildirim
 Biz eleştiriye açık bir ekibiz ve botumuzu geliştirmek için geri bildiriminizi bekliyoruz. Ancak, botu haksız yere kötüleme veya aşağılama amacıyla kullanmak uygun değildir. Bu tür davranışlar uyarı gerektirebilir.
 
-Lütfen bu kullanım şartlarını dikkatlice okuyun ve kabul ediyorsanız botu kullanmaya başlayın. [*Daha fazla bilgi*]([https://discord.gg/55dfV3u5f8])
+Lütfen bu kullanım şartlarını dikkatlice okuyun ve kabul ediyorsanız botu kullanmaya başlayın. [*Daha fazla bilgi*](https://discord.gg/55dfV3u5f8)
