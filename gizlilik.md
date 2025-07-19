@@ -1,47 +1,131 @@
-Gizlilik Politikası
+# Gizlilik Politikası
 
-Son Güncelleme Tarihi: [16.06.2024]
+**Son Güncelleme Tarihi:** 19 Temmuz 2025
+**Yürürlük Tarihi:** 16 Aralık 2024
 
-1. Giriş
+## 1. Giriş
 
-Bu gizlilik politikası, [EzBro] (bundan böyle "ezbro" olarak anılacaktır) tarafından sağlanan hizmetlerin kullanımı sırasında kullanıcıların verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Bu politikayı kabul etmiyorsanız, lütfen botumuzu kullanmayın.
+Bu Gizlilik Politikası, **EzBro** ("Bot", "Hizmet", "Biz") tarafından sağlanan Discord bot hizmetlerinin kullanımı sırasında kullanıcı verilerinin nasıl toplandığını, kullanıldığını, saklandığını ve korunduğunu açıklamaktadır. 
 
-2. Toplanan Veriler
+Hizmetlerimizi kullanarak bu politikayı kabul etmiş olursunuz. Bu politikayı kabul etmiyorsanız, lütfen botumuzu kullanmayın.
 
-Botumuz, kullanıcı deneyimini iyileştirmek ve hizmetlerimizi sağlamak amacıyla çeşitli türde veriler toplayabilir:
+## 2. Veri Sorumlusu
 
-Kullanıcı Verileri: Kullanıcı adları, kullanıcı kimlikleri, sunucu kimlikleri ve kanal kimlikleri gibi veriler.
-Mesaj Verileri: Kullanıcıların bot ile etkileşimleri sonucu oluşturulan mesajlar ve komutlar.
-Diğer Veriler: Kullanıcı tercihleri ve botun işlevselliği ile ilgili diğer veriler.
-3. Verilerin Kullanımı
+**Şirket/Proje Adı:** EzBro  
+**E-posta:** yasincobann0@gmail.com  
+**Web Sitesi:** https://ezbro.tr  
+**Discord Sunucu:** [Destek Sunucusu Linki]
 
-Toplanan veriler, şu amaçlarla kullanılabilir:
+## 3. Toplanan Veriler
 
-Botun temel işlevlerini yerine getirmek.
-Kullanıcı deneyimini iyileştirmek.
-Hizmetlerimizi geliştirmek ve özelleştirmek.
-Sorun giderme ve müşteri desteği sağlamak.
-4. Verilerin Paylaşımı
+### 3.1 Otomatik Toplanan Veriler
+- **Discord Kullanıcı Bilgileri:** Kullanıcı ID, kullanıcı adı, discriminator, avatar
+- **Sunucu Bilgileri:** Sunucu ID, sunucu adı, üye sayısı
+- **Kanal Bilgileri:** Kanal ID, kanal adı, kanal türü
+- **Mesaj Verileri:** Komut kullanımları, mesaj ID'leri (içerikler saklanmaz)
 
-Kullanıcı verileri aşağıdaki durumlar haricinde üçüncü taraflarla paylaşılmayacaktır:
+### 3.2 Kullanıcı Tarafından Sağlanan Veriler
+- Bot ayarları ve tercihler
+- Özel komutlar ve konfigürasyonlar
+- Kullanıcı tarafından oluşturulan içerikler
 
-Yasal zorunluluklar: Yasal gerekliliklere uymak veya yasal süreçlere yanıt vermek.
-Hizmet sağlayıcılar: Botun işlevselliğini sağlamak için gerekli olan üçüncü taraf hizmet sağlayıcılarla.
-5. Verilerin Güvenliği
+### 3.3 Teknik Veriler
+- Komut kullanım istatistikleri
+- Hata logları ve performans verileri
+- API etkileşim kayıtları
 
-Kullanıcı verilerinin güvenliği bizim için önemlidir. Bu nedenle, verileri korumak için uygun teknik ve organizasyonel önlemler alınmıştır. Ancak, internet üzerinden veri iletiminin tamamen güvenli olmadığını ve mutlak güvenliği garanti edemeyeceğimizi unutmayın.
+## 4. Verilerin Kullanım Amaçları
 
-6. Çocukların Gizliliği
+Toplanan veriler aşağıdaki amaçlarla kullanılır:
 
-Botumuz, 13 yaşın altındaki çocuklar tarafından kullanılmak üzere tasarlanmamıştır. 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamayız. Eğer 13 yaşın altındaki bir çocuğun bize kişisel bilgi sağladığını öğrenirsek, bu bilgileri en kısa sürede sileceğiz.
+- **Hizmet Sağlama:** Botun temel işlevlerini yerine getirmek
+- **Kişiselleştirme:** Kullanıcı deneyimini özelleştirmek
+- **Geliştirme:** Hizmetlerimizi iyileştirmek ve yeni özellikler eklemek
+- **Destek:** Teknik destek ve sorun giderme
+- **Güvenlik:** Kötüye kullanımı önlemek ve güvenliği sağlamak
+- **Analitik:** Kullanım istatistikleri ve performans analizi
 
-7. Gizlilik Politikasındaki Değişiklikler
+## 5. Yasal Dayanak
 
-Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişiklik yapıldığında, yeni gizlilik politikası burada yayınlanacaktır. Bu nedenle, bu politikayı periyodik olarak gözden geçirmenizi öneririz.
+Verilerinizi işleme yasal dayanağımız:
+- **Sözleşmenin İfası:** Hizmetlerimizi sağlamak için gerekli
+- **Meşru Menfaat:** Hizmetlerimizi geliştirmek ve güvenliği sağlamak
+- **Rıza:** Belirli özellikler için açık rızanız
 
-8. İletişim
+## 6. Veri Saklama Süresi
 
-Bu gizlilik politikası ile ilgili herhangi bir sorunuz veya endişeniz varsa, lütfen bizimle iletişime geçin:
+- **Aktif Kullanıcı Verileri:** Hizmet kullanımı süresince
+- **İnaktif Kullanıcı Verileri:** Son kullanımdan itibaren 90 gün
+- **Log Verileri:** 30 gün
+- **Yedekleme Verileri:** 7 gün
 
-E-posta: [yasincobann0@gmail.com]
-Web Sitesi: [ezbro.xyz]
+## 7. Veri Paylaşımı
+
+Verileriniz aşağıdaki durumlar dışında üçüncü taraflarla **paylaşılmaz:**
+
+- **Yasal Zorunluluklar:** Mahkeme kararı veya yasal talep
+- **Hizmet Sağlayıcılar:** Hosting, veritabanı (şifreleme ile)
+- **Discord API:** Discord'un gerektirdiği veriler
+- **Açık Rızanız:** Sizin onayınızla
+
+## 8. Veri Güvenliği
+
+Verilerinizi korumak için aldığımız önlemler:
+
+- **Şifreleme:** Hassas veriler şifrelenir
+- **Erişim Kontrolü:** Sınırlı ve yetkilendirilmiş erişim
+- **Güvenlik Güncellemeleri:** Düzenli güvenlik yamaları
+- **Veri Minimizasyonu:** Sadece gerekli veriler toplanır
+- **Güvenli Hosting:** Güvenilir veri merkezleri
+
+## 9. Kullanıcı Hakları
+
+KVKK ve GDPR kapsamında haklarınız:
+
+- **Bilgi Alma Hakkı:** Hangi verilerinizin toplandığını öğrenme
+- **Erişim Hakkı:** Verilerinizin kopyasını talep etme
+- **Düzeltme Hakkı:** Yanlış verilerin düzeltilmesini isteme
+- **Silme Hakkı:** Verilerinizin silinmesini talep etme
+- **İtiraz Hakkı:** Veri işlemeye itiraz etme
+- **Taşınabilirlik Hakkı:** Verilerinizi taşınabilir formatta alma
+
+## 10. Çocukların Gizliliği
+
+- Botumuz 13 yaşın altındaki çocuklar için tasarlanmamıştır
+- Discord Hizmet Şartları gereği minimum yaş sınırı geçerlidir
+- 13 yaşın altındaki kullanıcılardan bilerek veri toplamayız
+
+## 11. Çerezler ve Takip
+
+- Bot, web paneli üzerinden çerezler kullanabilir
+- Sadece oturum yönetimi ve tercihler için kullanılır
+- Üçüncü taraf takip kodları kullanılmaz
+
+## 12. Uluslararası Veri Transferi
+
+Verileriniz, hizmet sağlayıcılarımızın bulunduğu ülkelerde saklanabilir. Bu durumda uygun güvenlik önlemleri alınır.
+
+## 13. Politika Değişiklikleri
+
+- Bu politika zaman zaman güncellenebilir
+- Önemli değişiklikler için bildirim gönderilir
+- Güncel politika her zaman web sitemizde yayınlanır
+
+## 14. İletişim
+
+Gizlilik ile ilgili sorularınız için:
+
+**E-posta:** yasincobann0@gmail.com  
+**Web Sitesi:** https://ezbro.tr  
+**Discord:** [Destek Sunucusu]  
+**Yanıt Süresi:** 3-7 iş günü
+
+## 15. Şikayet Hakkı
+
+Gizlilik haklarınızın ihlal edildiğini düşünüyorsanız:
+- Öncelikle bizimle iletişime geçin
+- Çözüm bulunamazsa, Kişisel Verileri Koruma Kurumu'na (KVKK) başvurabilirsiniz
+
+---
+
+**Not:** Bu politika Türkiye Cumhuriyeti yasaları ve AB Genel Veri Koruma Yönetmeliği (GDPR) ile uyumludur.
