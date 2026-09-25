@@ -1,131 +1,145 @@
 # Gizlilik Politikası
 
-**Son Güncelleme Tarihi:** 19 Temmuz 2025
+**Son Güncelleme Tarihi:** 26 Eylül 2026
 **Yürürlük Tarihi:** 16 Aralık 2024
 
 ## 1. Giriş
 
-Bu Gizlilik Politikası, **EzBro** ("Bot", "Hizmet", "Biz") tarafından sağlanan Discord bot hizmetlerinin kullanımı sırasında kullanıcı verilerinin nasıl toplandığını, kullanıldığını, saklandığını ve korunduğunu açıklamaktadır. 
+Bu Gizlilik Politikası, **EzBro** ("Bot", "Hizmet", "Biz") tarafından sağlanan Discord botu, web paneli (https://ezbro.net) ve ilgili özelliklerin kullanımı sırasında kişisel verilerin nasıl toplandığını, kullanıldığını, saklandığını ve korunduğunu açıklar.
 
-Hizmetlerimizi kullanarak bu politikayı kabul etmiş olursunuz. Bu politikayı kabul etmiyorsanız, lütfen botumuzu kullanmayın.
+Hizmetlerimizi kullanarak bu politikayı kabul etmiş olursunuz. Kabul etmiyorsanız botu sunucunuza eklemeyin ve paneli kullanmayın.
 
 ## 2. Veri Sorumlusu
 
-**Şirket/Proje Adı:** EzBro  
-**E-posta:** yasincobann0@gmail.com  
-**Web Sitesi:** https://ezbro.tr  
-**Discord Sunucu:** [Destek Sunucusu Linki]
+**Proje:** EzBro
+**Web sitesi:** https://ezbro.net
+**E-posta:** yasincobann0@gmail.com
+**Discord:** https://discord.com/invite/karakartal
+**Yanıt süresi:** 3–7 iş günü
 
 ## 3. Toplanan Veriler
 
-### 3.1 Otomatik Toplanan Veriler
-- **Discord Kullanıcı Bilgileri:** Kullanıcı ID, kullanıcı adı, discriminator, avatar
-- **Sunucu Bilgileri:** Sunucu ID, sunucu adı, üye sayısı
-- **Kanal Bilgileri:** Kanal ID, kanal adı, kanal türü
-- **Mesaj Verileri:** Komut kullanımları, mesaj ID'leri (içerikler saklanmaz)
+Yalnızca hizmeti çalıştırmak için gerekli veriler toplanır. Discord hesabınızın şifresi, e-posta adresi veya ödeme kartı bilgisi EzBro tarafından istenmez ve saklanmaz.
 
-### 3.2 Kullanıcı Tarafından Sağlanan Veriler
-- Bot ayarları ve tercihler
-- Özel komutlar ve konfigürasyonlar
-- Kullanıcı tarafından oluşturulan içerikler
+### 3.1 Discord üzerinden otomatik alınan veriler
 
-### 3.3 Teknik Veriler
-- Komut kullanım istatistikleri
-- Hata logları ve performans verileri
-- API etkileşim kayıtları
+- Kullanıcı kimliği, kullanıcı adı, görünen ad ve avatar
+- Sunucu kimliği, sunucu adı, üye sayısı ve botun ihtiyaç duyduğu kanal / rol kimlikleri
+- Komut kullanımı (komut adı, kullanan kişi, sunucu ve zaman)
+
+### 3.2 Panel ve hesap verileri
+
+- Discord OAuth ile giriş oturumu
+- Panelde kaydettiğiniz bot ayarları, özel komutlar ve tercihler
+- Herkese açık profilde sizin yazdığınız biyografi ve sosyal bağlantılar
+- Mağaza başvurusu, ürün ve sipariş kayıtları (satıcı veya alıcı iseniz)
+
+### 3.3 Koruma ve moderasyon kayıtları
+
+Sunucu yöneticisi ilgili sistemi açtıysa, ihlali tespit etmek ve kayıt tutmak için mesaj içeriği işlenebilir. Bu içerik her mesaj için sürekli arşivlenmez; ihlal, log veya denetim kaydı oluştuğunda saklanır.
+
+Kapsam örneğin şunları içerir:
+
+- Küfür, yasaklı kelime, reklam, spam, caps lock ve @everyone / @here koruması
+- Küfür ve hakaret tespiti için yapay zeka analizi (metin, tespit amacıyla işlenir)
+- Uyarı, sicil, denetim (audit) kaydı ve silinen mesaj logu (sunucu bu özelliği açtıysa)
+- İhbar hattına sizin gönderdiğiniz açıklama, kanıt ve ekler
+
+### 3.4 Yapay zeka
+
+Sohbet, görsel veya analiz komutuna yazdığınız metin (ve varsa gönderdiğiniz görsel) yanıt üretmek için yapay zeka hizmet sağlayıcısına iletilir. İstek, kötüye kullanımı sınırlamak için kısa süreli kullanım sayacıyla birlikte tutulabilir. Model sağlayıcısının kendi gizlilik koşulları da geçerlidir.
+
+### 3.5 Müzik
+
+Çalma listesi ve çalan parça bilgisi, çalma süresince işlenir. Şarkı sözü bir söz sağlayıcısından alınabilir. YouTube veya benzeri bir bağlantı açtığınızda, o platformun kendi koşulları uygulanır.
+
+### 3.6 Teknik veriler
+
+- Hata ve performans logları
+- Panel oturumu için zorunlu çerez / yerel depolama
+- İstismar veya güvenlik olayında bağlantı kaydı (IP, her ziyarette reklam profili çıkarmak için tutulmaz)
 
 ## 4. Verilerin Kullanım Amaçları
 
-Toplanan veriler aşağıdaki amaçlarla kullanılır:
+- Bot ve panel işlevlerini çalıştırmak
+- Sunucu sahibinin açtığı koruma ve moderasyon sistemlerini uygulamak
+- Yapay zeka, müzik ve diğer komutları yanıtlamak
+- Kimlik doğrulamak ve destek vermek
+- Kötüye kullanımı önlemek, limiti uygulamak ve güvenliği sağlamak
+- Hizmeti geliştirmek (toplu, kimliği ayırılmış istatistikler)
 
-- **Hizmet Sağlama:** Botun temel işlevlerini yerine getirmek
-- **Kişiselleştirme:** Kullanıcı deneyimini özelleştirmek
-- **Geliştirme:** Hizmetlerimizi iyileştirmek ve yeni özellikler eklemek
-- **Destek:** Teknik destek ve sorun giderme
-- **Güvenlik:** Kötüye kullanımı önlemek ve güvenliği sağlamak
-- **Analitik:** Kullanım istatistikleri ve performans analizi
+Verileriniz reklam ağına satılmaz. Üçüncü taraf reklam profili oluşturulmaz.
 
 ## 5. Yasal Dayanak
 
-Verilerinizi işleme yasal dayanağımız:
-- **Sözleşmenin İfası:** Hizmetlerimizi sağlamak için gerekli
-- **Meşru Menfaat:** Hizmetlerimizi geliştirmek ve güvenliği sağlamak
-- **Rıza:** Belirli özellikler için açık rızanız
+- **Sözleşmenin ifası:** İstediğiniz komut, panel ve moderasyon hizmetini vermek
+- **Meşru menfaat:** Güvenlik, kötüye kullanımın önlenmesi, hata ayıklama
+- **Hukuki yükümlülük:** Yetkili makam talebi
+- **Açık rıza:** Herkese açık profil, ihbar, mağaza başvurusu gibi sizin başlattığınız işlemler
 
-## 6. Veri Saklama Süresi
+## 6. Saklama Süreleri
 
-- **Aktif Kullanıcı Verileri:** Hizmet kullanımı süresince
-- **İnaktif Kullanıcı Verileri:** Son kullanımdan itibaren 90 gün
-- **Log Verileri:** 30 gün
-- **Yedekleme Verileri:** 7 gün
+| Veri | Süre |
+| --- | --- |
+| Sunucu ayarları ve komut verisi | Bot sunucudayken; bot ayrılınca veya siz silince silinir / devre dışı kalır |
+| Aktif olmayan kullanıcıya bağlı tercih ve sayaçlar | Son kullanımdan itibaren 90 gün |
+| Koruma ihlali ve moderasyon logu | Sunucu kaydı durdukça veya silme talebine kadar; yedekler en geç 30 gün |
+| İhbar ve ekleri | İnceleme bitene kadar, en fazla 180 gün (yasal zorunluluk varsa daha uzun) |
+| Yapay zeka istek içeriği | Yanıt üretmek için işlenir; kalıcı sohbet arşivi tutulmaz. Sayaçlar ilgili pencere (saatlik / günlük) sonunda düşer |
+| Hata logları | 30 gün |
+| Yedekler | 7 gün |
 
-## 7. Veri Paylaşımı
+## 7. Paylaşım
 
-Verileriniz aşağıdaki durumlar dışında üçüncü taraflarla **paylaşılmaz:**
+Veriler şu haller dışında satılmaz ve kiralanmaz:
 
-- **Yasal Zorunluluklar:** Mahkeme kararı veya yasal talep
-- **Hizmet Sağlayıcılar:** Hosting, veritabanı (şifreleme ile)
-- **Discord API:** Discord'un gerektirdiği veriler
-- **Açık Rızanız:** Sizin onayınızla
+- **Altyapı:** Barındırma ve veritabanı sağlayıcısı (erişim sınırlıdır)
+- **Discord:** Komutun çalışması için Discord API'sine giden veriler
+- **Yapay zeka sağlayıcısı:** Yalnızca o isteğin metni / görseli
+- **Müzik altyapısı:** Parça bağlantısı ve çalma bilgisi (o anki oturum)
+- **Yasal talep:** Mahkeme veya yetkili kurum kararı
+- **Sizin işleminiz:** Herkese açık profil, mağaza ilanı veya destek kaydı gibi kendinizin yayınladığı içerik
 
-## 8. Veri Güvenliği
+## 8. Güvenlik
 
-Verilerinizi korumak için aldığımız önlemler:
+- Panel trafiği şifreli bağlantı (HTTPS) üzerinden gider
+- Yönetim anahtarları ortam değişkenlerinde tutulur, istemciye konmaz
+- Veritabanı ve sunucu erişimi yetkilidir
+- Yalnızca gereken alanlar saklanır
 
-- **Şifreleme:** Hassas veriler şifrelenir
-- **Erişim Kontrolü:** Sınırlı ve yetkilendirilmiş erişim
-- **Güvenlik Güncellemeleri:** Düzenli güvenlik yamaları
-- **Veri Minimizasyonu:** Sadece gerekli veriler toplanır
-- **Güvenli Hosting:** Güvenilir veri merkezleri
+İnternet üzerinden aktarımın risksiz olduğu garanti edilemez.
 
-## 9. Kullanıcı Hakları
+## 9. Haklarınız
 
-KVKK ve GDPR kapsamında haklarınız:
+6698 sayılı KVKK ve, uygulanıyorsa, GDPR kapsamında:
 
-- **Bilgi Alma Hakkı:** Hangi verilerinizin toplandığını öğrenme
-- **Erişim Hakkı:** Verilerinizin kopyasını talep etme
-- **Düzeltme Hakkı:** Yanlış verilerin düzeltilmesini isteme
-- **Silme Hakkı:** Verilerinizin silinmesini talep etme
-- **İtiraz Hakkı:** Veri işlemeye itiraz etme
-- **Taşınabilirlik Hakkı:** Verilerinizi taşınabilir formatta alma
+- Hangi verinizin işlendiğini öğrenme
+- Kopyasını isteme
+- Yanlış verinin düzeltilmesini isteme
+- Silinmesini veya yok edilmesini isteme
+- İşlemeye itiraz etme
+- İşlemenin sınırlandırılmasını isteme
 
-## 10. Çocukların Gizliliği
+Talepler **yasincobann0@gmail.com** adresine veya destek sunucusuna iletilir. Kimliğinizi Discord hesabınız üzerinden doğrularız. Yasal saklama yükümlülüğü veya başkasının hakkı varsa silme kısmen reddedilebilir.
 
-- Botumuz 13 yaşın altındaki çocuklar için tasarlanmamıştır
-- Discord Hizmet Şartları gereği minimum yaş sınırı geçerlidir
-- 13 yaşın altındaki kullanıcılardan bilerek veri toplamayız
+## 10. Çocuklar
 
-## 11. Çerezler ve Takip
+Hizmet 13 yaşın altındakilere yönelik değildir. Discord'un kendi yaş sınırı da geçerlidir. 13 yaş altından bilerek veri toplandığını öğrenirsek ilgili kayıt silinir.
 
-- Bot, web paneli üzerinden çerezler kullanabilir
-- Sadece oturum yönetimi ve tercihler için kullanılır
-- Üçüncü taraf takip kodları kullanılmaz
+## 11. Çerezler
 
-## 12. Uluslararası Veri Transferi
+ezbro.net panelinde oturum ve dil / tema tercihi için zorunlu çerez ve yerel depolama kullanılır. Reklam veya üçüncü taraf takip çerezi kullanılmaz. Zorunlu çerez kapatılırsa panele giriş çalışmaz.
 
-Verileriniz, hizmet sağlayıcılarımızın bulunduğu ülkelerde saklanabilir. Bu durumda uygun güvenlik önlemleri alınır.
+## 12. Yurt dışına aktarım
 
-## 13. Politika Değişiklikleri
+Yapay zeka, müzik veya barındırma sağlayıcısı Türkiye dışında olabilir. Bu aktarım yalnızca ilgili isteği yerine getirmek için yapılır ve sağlayıcının kendi güvenlik koşullarına tabidir.
 
-- Bu politika zaman zaman güncellenebilir
-- Önemli değişiklikler için bildirim gönderilir
-- Güncel politika her zaman web sitemizde yayınlanır
+## 13. Değişiklikler
 
-## 14. İletişim
+Bu metin güncellenebilir. Önemli değişiklikler web sitesinde yayınlanır. Üstteki tarih, yürürlükteki sürümü gösterir.
 
-Gizlilik ile ilgili sorularınız için:
+## 14. Şikayet
 
-**E-posta:** yasincobann0@gmail.com  
-**Web Sitesi:** https://ezbro.tr  
-**Discord:** [Destek Sunucusu]  
-**Yanıt Süresi:** 3-7 iş günü
+Önce bizimle yazın. Çözülmezse Kişisel Verileri Koruma Kurumu'na (KVKK) başvurabilirsiniz.
 
-## 15. Şikayet Hakkı
-
-Gizlilik haklarınızın ihlal edildiğini düşünüyorsanız:
-- Öncelikle bizimle iletişime geçin
-- Çözüm bulunamazsa, Kişisel Verileri Koruma Kurumu'na (KVKK) başvurabilirsiniz
-
----
-
-**Not:** Bu politika Türkiye Cumhuriyeti yasaları ve AB Genel Veri Koruma Yönetmeliği (GDPR) ile uyumludur.
+Bu politika 6698 sayılı KVKK ve, uygulanıyorsa, GDPR ile uyumlu olacak şekilde yazılmıştır.
